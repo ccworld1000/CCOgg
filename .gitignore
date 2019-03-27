@@ -1,4 +1,5 @@
-CCSQLite.podspec
+*.podspec
+CCOgg.podspec
 Pods
 Podfile.lock
 .DS_Store  

@@ -6,7 +6,7 @@ target 'CCOgg' do
   # use_frameworks!
 
   # Pods for CCOgg
-  pod 'CCOgg', path:"."
+  pod 'CCOgg'
 
 end
 
@@ -15,6 +15,6 @@ target 'CCOggiOS' do
   # use_frameworks!
 
   # Pods for CCOggiOS
-  pod 'CCOgg', path:"."
+  pod 'CCOgg'
 
 end
